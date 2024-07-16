@@ -2,5 +2,5 @@
 - 👀 I’m interested in Data Science in environmentalism and neuroscience.
 - 🌱 I’m currently learning data science at Soy Henry Academy.
 - 💞️ I’m looking to collaborate on neuroscience and environmentalist projects
-- 📫 How to reach me at www.linkedin.com/in/ing-agustín-niederle
+- 📫 How to reach me: www.linkedin.com/in/ing-agustín-niederle
 - ⚡ Fun fact: I`m a filmmaker too, and I love scriptwriting :)
