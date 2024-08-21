@@ -14,4 +14,12 @@ Mis estudios en Henry revitalizaron mi interés en la programación con Python, 
 
 Me desempeño como escritor de narrativa y cine, además de haber sido docente e investigador en temas de neuro ciencia y ficción. Hago cine y teatro, tengo experiencia en desarrollar, planificar y coordinar proyectos con grandes equipos de creativos y técnicos en todas las etapas del proceso, lo que me dio recursos para comunicarme con diferentes áreas en sus lenguajes técnicos y de conocimientos específicos: Soy apasionado por los idiomas. Durante mi etapa de investigador estudié Alemán y Portugués. Tengo muy buen nivel de comunicación en Inglés y actualmente estudio Francés.
 
-Por contacto agunieder@gmail.com
+🛠  Tech skills Data Science.
+💻   Python SQL Markdown
+📚   Pandas Numpy Matplotlib  Seaborn FastAPI
+🛢   MySQL BigQuery MongoDB
+🔧   Docker Hadoop Apache Hive Apache Spark
+📊   Power BI
+⚙️   VirtualBox GitHub Jupyter Visual Studio Code Putty
+
+Por  contacto agunieder@gmail.com
