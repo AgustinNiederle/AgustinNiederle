@@ -10,9 +10,16 @@ Acerca de mí:
 
 Data Sciencist con background en Investigación de Biosensores, Biomateriales e Ingeniería Clínica que me formaron científicamente para Interpretar datos y proponer acciones específicas para resolver necesidades y problemas de un equipo de investigación. Con experiencia en interpretar y escribir artículos científicos, narrar y exponer los resultados de los datos a audiencias masivas especializadas, usando storytelling y recursos visuales. Orienté a una startup de biorremediación, aportando conocimientos en metodologías ágiles y eficientes. 
 
-Mis estudios en Henry revitalizaron mi interés en la programación con Python, flujos de trabajo, estructura de datos, evaluación de modelos y machine learning. Actualmente me capacito en análisis de datos, procesamiento de datos y generación de reportes y dashboards con Python y librerías (Pandas, Numpy, Seaborn, entre otras), MySQL, PowerBI, Docker, entre otras.
+Mis estudios en Henry me dieron experiencia en Python y sus librerías (Pandas, Numpy, Seaborn, entre otras), también en el manejo de MySQL, PowerBI, Docker, Airflow. Además, el diseño de la arquitectura tecnológica de proyectos de Data Science y el uso de modelos de Machine Learning.
 
-Me desempeño como escritor de narrativa y cine, además de haber sido docente e investigador en temas de neuro ciencia y ficción. Hago cine y teatro, tengo experiencia en desarrollar, planificar y coordinar proyectos con grandes equipos de creativos y técnicos en todas las etapas del proceso, lo que me dio recursos para comunicarme con diferentes áreas en sus lenguajes técnicos y de conocimientos específicos: Soy apasionado por los idiomas. Durante mi etapa de investigador estudié Alemán y Portugués. Tengo muy buen nivel de comunicación en Inglés y actualmente estudio Francés.
+Qué Hago:
+
+Me dedico a contar historias en todos los formatos. Los lenguajes son mi pasión, ya sea idiomas, matemáticas o lenguajes de programación. Hago cine y teatro como actividad complementaria, lo que me dió experiencia para planificar etapas de proyectos y coordinar grandes equipos de creativos y técnicos, en todas las etapas del proceso.Esto me permitió entender que puedo comunicarme con diferentes áreas en sus respectivos lenguajes propios y de conocimientos específicos.
+A dónde me dirijo:
+
+Busco proyectos que me permitan hacer un aporte a la lucha ambientalista, ya sea desde la divulgación de investigación científica a través del Storytelling adecuado, como del análisis de datos que permitan insights y estratégias posibles para luchar contra la crisis ambiental.
+
+Qué Tecnologías uso:
 
 🛠  Tech skills Data Science.
 💻   Python SQL Markdown
@@ -22,4 +29,4 @@ Me desempeño como escritor de narrativa y cine, además de haber sido docente e
 📊   Power BI
 ⚙️   VirtualBox GitHub Jupyter Visual Studio Code Putty
 
-Por  contacto agunieder@gmail.com
+Por  contacto agunieder@gmail.com o www.linkedin.com/in/ing-agustín-niederle
