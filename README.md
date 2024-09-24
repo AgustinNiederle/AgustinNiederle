@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agustin Niederle, Biomedical Engenieer From Argentina.
 - 👀 I’m interested in Data Science in environmentalism and neuroscience.
 - 🌱 I’m currently learning data science at Soy Henry Academy.
-- 💞️ I’m looking to collaborate on neuroscience and environmentalist projects
+- 🤎 I’m looking to collaborate on neuroscience and environmentalist projects
 - 📫 How to reach me: www.linkedin.com/in/ing-agustín-niederle
 - ⚡ Fun fact: I`m a filmmaker too, and I love scriptwriting :)
 
@@ -18,9 +18,10 @@ Me dedico a contar historias en todos los formatos. Los lenguajes son mi pasión
 A dónde me dirijo:
 
 🤎 A dónde me dirijo:
+
 Busco proyectos que me permitan hacer un aporte a la lucha ambientalista, ya sea desde la divulgación de investigación científica a través del Storytelling adecuado, como del análisis de datos que permitan insights y estratégias posibles para luchar contra la crisis ambiental.
 
-Qué Tecnologías uso:
+🛄 Qué Tecnologías uso:
 
 🛠  Tech skills Data Science.
 💻   Python SQL Markdown
