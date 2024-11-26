@@ -33,4 +33,4 @@ Busco proyectos que me permitan hacer un aporte a la lucha ambientalista, ya sea
 
 Por  contacto agunieder@gmail.com o www.linkedin.com/in/ing-agustín-niederle
 
-  tel: 549 38151107837 - Argentina
+  tel: 549 381 5107837 - Argentina
